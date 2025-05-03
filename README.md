@@ -1,0 +1,59 @@
+# Simple Python Presentator
+
+**Description**:  
+The **Simple Python Presentator** is designed to make presenting yourself easy and effective. This Python-based project allows users to create structured and customizable presentations for personal or professional purposes.
+
+---
+
+## Features
+- **Easy to Use**: Designed for simplicity and efficiency.
+- **Customizable**: Personalize your presentations with ease.
+- **Python-Based**: Fully written in Python, ensuring flexibility and extensibility.
+
+---
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Cesar-Gabriel/simple-python-presentator.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd simple-python-presentator
+   ```
+
+3. **Install dependencies**:
+   If the project uses any dependencies (add them if applicable):
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+## Usage
+
+1. Run the script:
+   ```bash
+   python main.py
+   ```
+
+2. Follow the prompts to input your data, or edit the configuration file to pre-load your information.
+
+3. View your personalized presentation output!
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## Author
+
+Developed and maintained by [Cesar-Gabriel](https://github.com/Cesar-Gabriel).
+```
+
+Let me know if you'd like to add or remove anything!
